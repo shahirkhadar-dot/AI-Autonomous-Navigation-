@@ -25,10 +25,12 @@ Autonomous navigation requires a vehicle to process spatial data, generate optim
 3. **Planner (A star planner):** Uses Euclid mean heuristics ($f = g + h$) to minimize travel distance.
 4. **Navigator (Autonomous navigator):** Manages real-time waypoint progression and exception handling.
 
+<img width="720" height="1570" alt="WhatsApp Image 2026-10-15 at 19 18 06" src="https://github.com/user-attachments/assets/ac14a691-22af-4819-b472-5d2856cdfb92" />
+
+
 ## ⚙️ Installation & Usage
 ### 1. Clone the repository
 ```bash
 git clone [https://github.com/shahirkhadar-dot/AI-Autonomous-Navigation-System.git](https://github.com/shahirkhadar-dot/AI-Autonomous-Navigation-System.git)
 cd AI-Autonomous-Navigation-System
-<img width="720" height="1570" alt="WhatsApp Image 2026-10-15 at 19 18 06" src="https://github.com/user-attachments/assets/88f37aab-e25e-4bb1-95d1-53830e098830" />
 

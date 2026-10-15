@@ -30,3 +30,4 @@ Autonomous navigation requires a vehicle to process spatial data, generate optim
 ```bash
 git clone [https://github.com/shahirkhadar-dot/AI-Autonomous-Navigation-System.git](https://github.com/shahirkhadar-dot/AI-Autonomous-Navigation-System.git)
 cd AI-Autonomous-Navigation-System
+Screenshot_20261015_185226.jpg
